@@ -2,7 +2,7 @@
 layout: post
 title:  "Social media mining to understand the impact of cooperative education on mental health"
 date:   2021-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+# image: /images/3dgaussian.jpg
 categories: research
 author: "Mohammad S. Parsa"
 authors: "<u>Mohammad S. Parsa</u>, Lukasz Golab"
@@ -11,6 +11,6 @@ venue: "International Journal of Work-Integrated Learning"
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus
 # subtitle: "A low power, wireless sensor"
-paper: /pdfs/mh-ijwl.pdf
+paper: https://files.eric.ed.gov/fulltext/EJ1338534.pdf
 ---
 In our study, we investigated the impact of cooperative education (co-op) on students’ mental well-being by analyzing Reddit discussion communities from over 50 U.S. and Canadian universities. We discovered that students frequently grapple with self-doubt, anxiety, and feelings of inadequacy due to the fiercely competitive co-op job market, especially when they end up in entry-level roles unrelated to their academic programs or endure stressful job interviews clashing with academic deadlines. For instance, we noted students expressing overwhelming disappointment and helplessness when unable to secure coveted positions, alongside loneliness from relocating away from friends and family for work terms. The COVID-19 pandemic intensified these struggles, as cancelled work terms sparked heightened competition, financial strain, and desperation to devise alternative plans, often leaving students feeling unmotivated, judged by peers, and fearful of falling behind.

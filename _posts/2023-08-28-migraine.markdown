@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Four Things People Should Know About Migraines"
+date:   2023-08-28 22:21:59 +00:00
+image: /images/migraine.png
+categories: research
+author: "Mohammad S. Parsa"
+authors: "<u>Mohammad S. Parsa</u>, Lukasz Golab"
+venue: " The 8th International Conference on Health Informatics & Medical Systems (HIMS'22)"
+# arxiv: https://arxiv.org/abs/2308.14737
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+# subtitle: "A low power, wireless sensor"
+---
+We explored Reddit discussions to highlight public misunderstandings about migraines and their impact on migraineurs. Migraines are a serious condition affecting all ages, triggered by diverse factors like stress or caffeine, disproportionately impact women (especially during menstruation or pregnancy), and worsened during COVID-19 due to intensified attacks and lockdown stress. These findings, drawn from subreddits like r/migraine and r/AskWomen, reveal unique social and gender dynamics absent from our environmental studies, emphasizing personal struggles over policy debates.

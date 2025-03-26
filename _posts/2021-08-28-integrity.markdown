@@ -12,6 +12,7 @@ venue: "International Conference on Educational Data Mining (EDM 2021)"
 # website: https://leonidk.github.io/fmb-plus
 # subtitle: "A low power, wireless sensor"
 # pdf: /pdfs/EDM21_integrity.pdf
-paper: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_73.pdf
+paper: "https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_73.pdf"
+website: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_73.pdf
 ---
 We examined Reddit discussions on academic subreddits from Fall 2019 and Fall 2020 to understand students’ feelings about online cheating. We found a threefold increase in cheating-related posts in 2020, shifting from plagiarism in programming (pre-COVID) to broader online assessment concerns during the pandemic. We identified three unique themes in 2020: cheating inflates grades, prompting tougher exams; unpunished cheating demotivates students; and unclear integrity policies confuse them.

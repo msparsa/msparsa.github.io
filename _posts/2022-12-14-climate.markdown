@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Analyzing Climate Change Discussions on Reddit"
+date:   2022-12-14 22:21:59 +00:00
+image: /images/climate.png
+categories: research
+author: "Mohammad S. Parsa"
+authors: "<u>Mohammad S. Parsa</u>, Haoqi Shi, Yihao Xu, Aaron Yim, Yaolun Yin, Lukasz Golab"
+venue: "International Conference on Computational Science and Computational Intelligence (CSCI)"
+website: https://ieeexplore.ieee.org/abstract/document/10216752
+paper: /pdfs/climate.pdf
+---
+We explored the relationship between climate change discussions on Reddit and the COVID-19 pandemic across subreddits. Before the pandemic, we observed steady conversations focusing on skepticism, consequences, and solutions, tied to events like the Paris Agreement. After COVID-19 hit, we noted a shift—discussions in r/climateskeptics grew more doubtful, linking lockdowns to reduced emissions as "proof" against climate urgency, while r/climateOffensive and r/environment pivoted to pandemic-driven solutions like remote activism and economic recovery tied to green initiatives, amplifying both division and innovation in climate discourse. 

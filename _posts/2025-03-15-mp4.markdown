@@ -2,7 +2,7 @@
 layout: post
 title:  "A generalized protein design ML model enables generation of functional de novo proteins"
 date:   2025-03-15 22:21:59 +00:00
-image: /images/glp1.jpg
+image: /images/glp1.png
 categories: research
 author: "Mohammad S. Parsa"
 authors: "Timothy P Riley, Oleg Matusovsky, <u>Mohammad S. Parsa</u>, Pourya Kalantari, Kooshiar Azimian, Kathy Y Wei"
@@ -12,6 +12,6 @@ venue: "ICLR 2025 Workshop GEM"
 # website: https://leonidk.github.io/fmb-plus
 # subtitle: "A low power, wireless sensor"
 # paper: 
-pdf: /pdfs/glp1.pdf
+# pdf: /pdfs/glp1.pdf
 ---
 We introduce MP4, a transformer-based AI model that generates novel protein sequences from functional text prompts. Trained on a diverse dataset of 138,000 tokens and 3.2 billion data points, MP4 creates proteins with specified functions like binding or catalysis, achieving high structural stability and experimental success. We tested over 1,000 unique prompts, producing sequences with natural amino acid distributions and predicted foldability (average pLDDT 82.6). Experimentally, 84% of 94 selected sequences expressed well in a cell-free system, with many showing thermostability above $62^{\circ} \mathrm{C}$, some nearing $90^{\circ} \mathrm{C}$. MP4’s ability to balance novelty and functionality marks it as a versatile tool for protein design.

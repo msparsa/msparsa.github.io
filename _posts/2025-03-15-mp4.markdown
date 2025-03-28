@@ -7,7 +7,7 @@ categories: research
 author: "Mohammad S. Parsa"
 authors: "Timothy P Riley, Oleg Matusovsky, <u>Mohammad S. Parsa</u>, Pourya Kalantari, Kooshiar Azimian, Kathy Y Wei"
 venue: "ICLR 2025 Workshop GEM"
-# arxiv: https://arxiv.org/abs/2308.14737
+arxiv: https://www.biorxiv.org/content/10.1101/2025.03.21.644400v1
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus
 # subtitle: "A low power, wireless sensor"

@@ -5,7 +5,7 @@ date:   2025-03-15 22:21:59 +00:00
 image: /images/glp1.png
 categories: research
 author: "Mohammad S. Parsa"
-authors: "Timothy P Riley, Oleg Matusovsky, Pourya Kalantari, Kooshiar Azimian, Kathy Y Wei, <u>Mohammad S. Parsa</u>"
+authors: "Timothy P Riley, Pourya Kalantari, Kooshiar Azimian, Kathy Y Wei, Oleg Matusovsky, <u>Mohammad S. Parsa</u>"
 venue: "ICLR GEM 2025 Workshop (Spotlight paper)"
 arxiv: https://www.biorxiv.org/content/10.1101/2025.03.21.644400v1
 # code: https://github.com/leonidk/fmb-plus

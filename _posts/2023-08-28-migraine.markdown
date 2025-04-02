@@ -7,7 +7,7 @@ categories: research
 author: "Mohammad S. Parsa"
 authors: "<u>Mohammad S. Parsa</u>, Lukasz Golab"
 venue: " The 8th International Conference on Health Informatics & Medical Systems (HIMS'22)"
-# arxiv: https://arxiv.org/abs/2308.14737
+arxiv: http://arxiv.org/abs/2504.00011
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus
 # subtitle: "A low power, wireless sensor"

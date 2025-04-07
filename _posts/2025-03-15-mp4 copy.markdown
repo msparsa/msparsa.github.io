@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Identification of acrylamide-based covalent inhibitors of SARS-CoV-2 (SCoV-2) Nsp15 using high-throughput screening and machine learning"
+date:   2025-02-04 22:21:59 +00:00
+image: /images/nsp15.png
+categories: research
+author: "Mohammad S. Parsa"
+authors: "Teena Bajaj, Babak Mosavati, Lydia H. Zhang, <u>Mohammad S. Parsa</u>, Huanchen Wang, Evan M. Kerek, Xueying Liang, Seyed Amir Tabatabaei Dakhili,
+Eddie Wehri,
+Silin Guo, Rushil N. Desai, Lauren M. Orr,
+Mohammad R. K. Mofrad,
+Julia Schaletzky, John R. Ussher,
+Xufang Deng,
+Robin Stanley, Basil P. Hubbard,  Daniel K. Nomura and Niren Murthy"
+venue: "RSC Advances"
+doi: https://doi.org/10.1039/D4RA06955B
+code: https://github.com/msparsa/nsp15-inhibitors-prediction
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+# subtitle: "A low power, wireless sensor"
+# paper: 
+# pdf: /pdfs/glp1.pdf
+---
+We studied Nsp15, a SARS-CoV-2 endoribonuclease crucial for immune evasion and a promising drug target. Despite its complex structure, we screened 2640 acrylamide compounds, finding 10 that inhibited Nsp15 activity (IC50 < 5 μM) with favorable properties like low molecular weight and Lipinski compliance. Using this data, we built an AI model with 73% accuracy to predict new inhibitors, showing acrylamide fragments’ potential for Nsp15 drug development.

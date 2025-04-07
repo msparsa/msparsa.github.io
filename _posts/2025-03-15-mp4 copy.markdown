@@ -13,7 +13,7 @@ Julia Schaletzky, John R. Ussher,
 Xufang Deng,
 Robin Stanley, Basil P. Hubbard,  Daniel K. Nomura and Niren Murthy"
 venue: "RSC Advances"
-doi: https://doi.org/10.1039/D4RA06955B
+paper: https://doi.org/10.1039/D4RA06955B
 code: https://github.com/msparsa/nsp15-inhibitors-prediction
 # code: https://github.com/leonidk/fmb-plus
 # website: https://leonidk.github.io/fmb-plus

@@ -59,6 +59,23 @@
           </tr>
         </table>
 
+        <table style="width:100%;margin-top:2em;">
+          {% assign news_posts = site.categories.news | sort: 'date' | reverse %}
+          {% if news_posts.size > 0 %}
+            <tr>
+              <td style="padding:2.5%">
+                <h2>News</h2>
+                {% for post in news_posts limit:1 %}
+                  <p>
+                    {{ post.excerpt }}  
+                    <a href="{{ post.url | prepend: site.baseurl }}" target="_blank">Read more →</a>
+                  </p>
+                {% endfor %}
+              </td>
+            </tr>
+        </table>
+        {% endif %}
+        
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">

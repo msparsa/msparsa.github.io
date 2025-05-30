@@ -11,7 +11,7 @@ code: https://github.com/msparsa/simba
 # website: 
 # subtitle: 
 paper: https://www.biorxiv.org/content/early/2025/05/28/2025.05.27.656377
-poster: /pdfs/simba-gnn.pdf
+#poster: /pdfs/simba-gnn.pdf
 arxiv: https://www.biorxiv.org/content/early/2025/05/28/2025.05.27.656377
 ---
 We introduce **SIMBA**, a graph neural network framework augmented by metabolic simulations to decode microbiome dynamics. Unlike traditional methods focusing only on taxonomic abundance, SIMBA builds biologically grounded graphs by simulating pairwise interactions using metabolic networks, capturing metabolite cross-feeding and functional links between microbes.

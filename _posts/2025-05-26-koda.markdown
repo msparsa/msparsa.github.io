@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "KODA: An Agentic Framework for KEGG Orthology-Driven Discovery of Antimicrobial Drug Targets in Gut Microbiome"
+date:   2025-05-26 22:00:00 +00:00
+image: /images/koda.png
+categories: research
+author: "Mohammad S. Parsa"
+authors: "Javad Aminian-Dehkordi,<u>Mohammad S. Parsa</u>, Mohsen Naghipourfar, Mohammad Mofrad"
+venue: "ICML GenBio (2025)"
+code: https://github.com/mofradlab/koda
+# website: 
+# subtitle: 
+#paper: https://www.biorxiv.org/content/early/2025/05/28/2025.05.27.656377
+#poster: /pdfs/simba-gnn.pdf
+arxiv: https://www.biorxiv.org/content/early/2025/05/28/2025.05.27.656377
+---
+KODA is an agent-based framework that combines large language models with a Neo4j knowledge graph of gut microbiome data to turn plain-English questions into precise graph queries. By focusing on KEGG orthologies of essential microbial genes and analyzing metabolic pathways, it automatically highlights conserved gene targets for antimicrobial drug development. An LLM-powered evaluation layer then reviews query outputs and reports, ensuring KODA delivers reliable, user-friendly insights that accelerate hypothesis generation in microbiome research.

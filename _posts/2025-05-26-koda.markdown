@@ -6,7 +6,7 @@ image: /images/koda.png
 categories: research
 author: "Mohammad S. Parsa"
 authors: "Javad Aminian-Dehkordi, <u>Mohammad S. Parsa</u>, Mohsen Naghipourfar, Mohammad Mofrad"
-venue: "ICML GenBio"
+venue: "ICML GenBio Workshop"
 code: https://github.com/mofradlab/koda
 # website: 
 # subtitle: 

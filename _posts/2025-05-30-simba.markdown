@@ -6,7 +6,7 @@ image: /images/simba-gnn.png
 categories: research
 author: "Mohammad S. Parsa"
 authors: "<u>Mohammad S. Parsa</u>, Javad Aminian-Dehkordi, Mohammad Mofrad"
-venue: "bioRxiv Preprint (2025)"
+venue: "ICML GenBio (2025)"
 code: https://github.com/msparsa/simba
 # website: 
 # subtitle: 

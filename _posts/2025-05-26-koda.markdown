@@ -10,7 +10,7 @@ venue: "ICML GenBio Workshop"
 code: https://github.com/mofradlab/koda
 # website: 
 # subtitle: 
-#paper: https://www.biorxiv.org/content/early/2025/05/28/2025.05.27.656377
+paper: https://openreview.net/forum?id=NztqnFFuoR&noteId=NztqnFFuoR
 #poster: /pdfs/simba-gnn.pdf
 arxiv: https://www.biorxiv.org/content/10.1101/2025.05.27.656480v1
 ---

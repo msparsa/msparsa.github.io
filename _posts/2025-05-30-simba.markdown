@@ -10,7 +10,7 @@ venue: "ICML GenBio Workshop"
 code: https://github.com/msparsa/simba
 # website: 
 # subtitle: 
-#paper: https://www.biorxiv.org/content/early/2025/05/28/2025.05.27.656377
+paper: https://openreview.net/forum?id=rOfzfmhUNM&noteId=rOfzfmhUNM
 #poster: /pdfs/simba-gnn.pdf
 arxiv: https://www.biorxiv.org/content/early/2025/05/28/2025.05.27.656377
 ---

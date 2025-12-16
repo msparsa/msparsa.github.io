@@ -2,7 +2,7 @@
 layout: post
 title:  "An Artificial Intelligence Model for Translating Natural Language into Functional de Novo Proteins"
 date:   2025-11-15 22:21:59 +00:00
-image: /images/glp2.png
+image: /images/glp2.jpg
 categories: research
 author: "Mohammad S. Parsa"
 authors: "Timothy P Riley, <u>Mohammad S. Parsa</u>, Pourya Kalantari, Kooshiar Azimian, Kathy Y Wei, Oleg Matusovsky"

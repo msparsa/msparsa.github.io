@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "An Artificial Intelligence Model for Translating Natural Language into Functional de Novo Proteins"
+date:   2025-11-15 22:21:59 +00:00
+image: /images/glp2.png
+categories: research
+author: "Mohammad S. Parsa"
+authors: "Timothy P Riley, <u>Mohammad S. Parsa</u>, Pourya Kalantari, Kooshiar Azimian, Kathy Y Wei, Oleg Matusovsky"
+#venue: "ICLR GEM 2025 Workshop (Spotlight paper)"
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+# subtitle: "A low power, wireless sensor"
+#paper: https://openreview.net/forum?id=H7KaafflRG
+#poster: /pdfs/iclr_gem.pdf
+arxiv: https://www.biorxiv.org/content/10.1101/2025.03.21.644400.abstract
+---
+We trained MP4, a transformer-based model that maps natural language prompts to protein sequences, on a dataset of 3.2 billion points and 138k tokens. In a benchmark of 96 prompts representing a wide array of functions and contexts, MP4 excelled by simultaneously improving on three key metrics: sequence realism, predicted fold quality, and alignment to the requested function.

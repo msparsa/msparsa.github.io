@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "SIMBA-GNN: mechanistic graph learning for microbiome prediction"
+date:   2025-12-15 22:00:00 +00:00
+image: /images/simba-gnn2.png
+categories: research
+author: "Mohammad S. Parsa"
+authors: "Javad Aminian-Dehkordi*,<u>Mohammad S. Parsa*</u>, Mohammad Mofrad"
+venue: "npj Systems Biology and Applications"
+code: https://github.com/msparsa/simba
+# website: 
+# subtitle: 
+#doi: 
+paper: https://www.nature.com/articles/s41540-025-00631-w
+#poster: /pdfs/simba-gnn.pdf
+#arxiv: https://www.biorxiv.org/content/early/2025/05/28/2025.05.27.656377
+---
+Using a high-fiber dietary cohort mapped to metabolic networks, we ran thousands of pairwise simulations to infer cross-feeding probabilities, pathway activity fingerprints, and microbe-microbe
+functional similarity using a global microbe-metabolite-pathway graph neural netwrok.

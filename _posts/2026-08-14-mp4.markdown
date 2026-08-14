@@ -10,9 +10,9 @@ venue: "ACS Synthetic Biology"
 # code: 
 # website: 
 # subtitle: 
-doi: https://doi.org/10.1021/acssynbio.6c00246
+# doi: https://doi.org/10.1021/acssynbio.6c00246
 paper: https://doi.org/10.1021/acssynbio.6c00246
 #poster: 
-#arxiv: 
+arxiv: https://www.biorxiv.org/content/10.1101/2025.03.21.644400.abstract
 ---
 MP4 is a transformer that maps plain-language specifications directly to protein sequences, sidestepping the dependence on known folds and homologous templates that constrains conventional design. Across a 96-prompt benchmark it improves sequence realism, predicted fold quality, and functional alignment simultaneously from text input alone, and two designs were experimentally expressed, crystallized at 1.30 Å and 1.77 Å — one revealing a novel fold — with ATP binding and hydrolysis confirmed in vitro.

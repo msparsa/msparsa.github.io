@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "MP4: translating natural language into functional de novo proteins"
+date:   2026-08-13 12:00:00 +00:00
+image: /images/mp4.png
+categories: research
+author: "Mohammad S. Parsa"
+authors: "Timothy P. Riley, <u>Mohammad S. Parsa</u>, Pourya Kalantari, Ismail Naderi, Kiana Azimian, Nemya Begloo, Oleg Matusovsky, Eliot Osher, Devika Prabhakaran, Rahul Yadav, Klem Simelis, Indran Mathavan, Jeeven Singh, Kooshiar Azimian, Kathy Y. Wei"
+venue: "ACS Synthetic Biology"
+# code: 
+# website: 
+# subtitle: 
+doi: https://doi.org/10.1021/acssynbio.6c00246
+paper: https://doi.org/10.1021/acssynbio.6c00246
+#poster: 
+#arxiv: 
+---
+MP4 is a transformer that maps plain-language specifications directly to protein sequences, sidestepping the dependence on known folds and homologous templates that constrains conventional design. Across a 96-prompt benchmark it improves sequence realism, predicted fold quality, and functional alignment simultaneously from text input alone, and two designs were experimentally expressed, crystallized at 1.30 Å and 1.77 Å — one revealing a novel fold — with ATP binding and hydrolysis confirmed in vitro.
